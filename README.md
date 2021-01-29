@@ -12,3 +12,8 @@
 
 - Studied lesson 2.1 - 2.8
 - There are 2 types of businesss problems: Predictive and Analytical.
+
+## Day 3 (28/01/2021)
+
+- Completed Lesson 2
+- The methodology map can be used in different senarios.
