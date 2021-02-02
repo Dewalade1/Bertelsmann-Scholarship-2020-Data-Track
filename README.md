@@ -43,3 +43,8 @@
  * The 5 types are the Data Geek (loves data), Emailer (prefers emails), Traveler (travels a lot so their always on their phones), Presenter (loves presentations) and Old School (prefers PDFs & printouts)
  * I learnt that understanding your executives priorities help deliver better data stories.
  * To understand them, ask questions about what they whanna answer, what actions they intend to take with the results, and what key results or metric they are after
+ 
+## DAY 8 (02/02/2021)
+
+* Studied Chapter 2: Flow control of automate the boring stuff with python.
+* Learnt about using flowcharts and the elements of flow control.
