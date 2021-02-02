@@ -31,3 +31,15 @@
 * Each process is has its own unshared memory
 * A shared memory location (shared value) can be created for all processes using the `multiprocessing.Value()` command
 * Shared values can be locked from processes preventing them from being updated by certain processes by using a **lock**
+
+## DAY 6 (31/01/2021)
+
+* Studied a course on Time Management
+
+## DAY 7 (01/02/2021)
+
+ * Took a course on executive datastory telling by Data Story Acadamy
+ * I learnt about the general types of executives and their prefered data story and dashboard delivery methods
+ * The 5 types are the Data Geek (loves data), Emailer (prefers emails), Traveler (travels a lot so their always on their phones), Presenter (loves presentations) and Old School (prefers PDFs & printouts)
+ * I learnt that understanding your executives priorities help deliver better data stories.
+ * To understand them, ask questions about what they whanna answer, what actions they intend to take with the results, and what key results or metric they are after
