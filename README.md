@@ -6,7 +6,20 @@
 ## DAY 1 (26/01/2021)
 
 * Restarted the pledge and reviewed lesson 1.
+* The basis of this lesson is to use the **Cross Industry Standard Process for Data Mining (CRISP-DM)** as a **Problem Solving Framework** for our Analysis.
+* CRISP-DM consists of the following steps: 
+  1. Business Issue Understanding
+  2. Data Understanding
+  3. Data Preparation
+  4. Analysis/Modeling
+  5. Validation
+  6. Presentation/ Visualization.
+* Steps of the CRISP-DM framework may be performed multiple times or restart the entire problem solving framework and revise some of the assumptions and decisions made along the way.
 
+**Note:** Don't throw all your data at your model and hope for the best
+
+![The Problem solving framework](./images/the-problem-solving-framework.png)
+*Credit: The six steps to the problem-solving framework PDF file I Downloaded from the Bertelsmann Scholarship Data Track Slack Channel*
 
 ## Day 2 (27/01/2021)
 
