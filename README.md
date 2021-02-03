@@ -24,7 +24,12 @@
 ## Day 2 (27/01/2021)
 
 * Studied lesson 2.1 - 2.8
+* The methodology map is meant to be used as we work our way through the analytical problem solving framework.
+* It helps us decide which methodology to use to solve a business problem.
 * There are 2 types of businesss problems: Predictive and Analytical.
+
+![Types of Data Analysis](./images/types-of-data-analysis.png)
+*Credit: Lesson2.pdf I downloaded from the Bertelsmann Scholarship Data Track Slack Channel*
 
 ## Day 3 (28/01/2021)
 
