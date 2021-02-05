@@ -66,3 +66,26 @@
 
 * Studied Chapter 2: Flow control of automate the boring stuff with python.
 * Learnt about using flowcharts and the elements of flow control.
+
+## DAY 9 (03/02/2021)
+
+* I spent the day downloading and installing alteryx on my windows PC
+
+![Alteryx downloader](./images/alteryx-installation.png)
+*Credit: Me*
+
+## DAY 10 (04/02/2021)
+
+* I learnt how to choose colors to [make your visualizations look more professional](https://blog.datawrapper.de/beautifulcolors/)
+* I also learned to [never use pure black in visualizations](https://ianstormtaylor.com/design-tip-never-use-black/)
+* I also learnt good ways to choose color lighting is to [check colors in greyscale](https://blog.datawrapper.de/colorblind-check/) using [Color Oracle](http://www.colororacle.org/) and [Vizcheck](http://vischeck.com/)
+* I found some useful tools to help me select better colors for my visualizations. These tools are: [Adobe Color](https://color.adobe.com/create/color-wheel), [Color Calculator](https://www.sessions.edu/color-calculator/), and [Learnui color palette picker](https://learnui.design/tools/data-color-picker.html#palette) 
+* I found tools to pick out image colors using [Color Picker](https://image-color.com/) and [Adobe Capture](https://www.adobe.com/products/capture.html)
+
+![Color Wheel](./images/color-wheel.png)
+*The Color wheel*        *Image credit: [Datawrapper](https://blog.datawrapper.de/beautifulcolors/)
+
+![dark-background-color-usage](./images/dark-background-color-usage.png)
+*Good colors for dark backgrounds*        *Image credit: [Datawrapper](https://blog.datawrapper.de/beautifulcolors/)
+
+
