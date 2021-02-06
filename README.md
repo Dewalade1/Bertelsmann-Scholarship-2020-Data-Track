@@ -119,6 +119,11 @@
 
 ## DAY 11 (05/02/2021)
 
+* Learnt about r-squared and adjusted r-squared for linear and multiple linear regression analysis
+* Signed up for Alteryx
 
+![R squared](./images/r-squared.png)
+
+*R-Squared*
 
 ## DAY 12 (06/02/2021)
