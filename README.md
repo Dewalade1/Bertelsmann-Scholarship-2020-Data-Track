@@ -19,6 +19,7 @@
 **Note:** Don't throw all your data at your model and hope for the best
 
 ![The Problem solving framework](./images/the-problem-solving-framework.png)
+
 *Credit: The six steps to the problem-solving framework PDF file I Downloaded from the Bertelsmann Scholarship Data Track Slack Channel*
 
 ## Day 2 (27/01/2021)
@@ -38,7 +39,12 @@
 * There are three types of numerical data: Count, Categorical and Time-series
 * There are two categories of classification data: Binary and Non-binary classification
 
+![numeric datatypes](./images/numeric-data-types.png)
+
+*Numeric Datatypes*
+
 ![Binary classification](./images/binary-classification.png)
+
 *Binary classification*
 
 ## Day 4 (29/01/2021)
@@ -48,12 +54,15 @@
 * Learnt about correlation between predictor and target variables.
 
 ![linear Regression](./images/linear-regression.png)
+
 *Graph of Linear Regression*
 
 ![plot](./images/tickets-value-plot.png)
+
 *Graph of correlation between predictor and target variables*
 
 ![plot](./images/value-contract-no-linear-relationship.png)
+
 *Graph of lack of correlation between predictor and target variables*
 
 ## Day 5 (30/01/2021)
@@ -88,6 +97,7 @@
 * I spent the day downloading and installing alteryx on my windows PC
 
 ![Alteryx downloader](./images/alteryx-installation.png)
+
 *Credit: Me*
 
 ## DAY 10 (04/02/2021)
@@ -99,11 +109,16 @@
 * I found tools to pick out image colors using [Color Picker](https://image-color.com/) and [Adobe Capture](https://www.adobe.com/products/capture.html)
 
 ![Color Wheel](./images/color-wheel.png)
+
 *The Color wheel*        *Image credit: [Datawrapper](https://blog.datawrapper.de/beautifulcolors/)
 
 ![dark-background-color-usage](./images/dark-background-color-usage.png)
-*Good colors for dark backgrounds*        *Image credit: [Datawrapper](https://blog.datawrapper.de/beautifulcolors/)
+
+*Good colors for dark backgrounds*        
+*Image credit: [Datawrapper](https://blog.datawrapper.de/beautifulcolors/)
 
 ## DAY 11 (05/02/2021)
+
+
 
 ## DAY 12 (06/02/2021)
