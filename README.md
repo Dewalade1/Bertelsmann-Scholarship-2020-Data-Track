@@ -44,6 +44,17 @@
 ## Day 4 (29/01/2021)
 
 * Started Lesson 3
+* Learnt to perform linear Regression and multiple linear regression analysis using excel
+* Learnt about correlation between predictor and target variables.
+
+![linear Regression](./images/linear-regression.png)
+*Graph of Linear Regression*
+
+![plot](./images/tickets-value-plot.png)
+*Graph of correlation between predictor and target variables*
+
+![plot](./images/value-contract-no-linear-relationship.png)
+*Graph of lack of correlation between predictor and target variables*
 
 ## Day 5 (30/01/2021)
 
