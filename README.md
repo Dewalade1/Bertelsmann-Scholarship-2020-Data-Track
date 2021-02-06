@@ -34,7 +34,12 @@
 ## Day 3 (28/01/2021)
 
 * Completed Lesson 2
-* The methodology map can be used in different senarios.
+* The methodology map can be used to select the proper model for solving a business problem.
+* There are three types of numerical data: Count, Categorical and Time-series
+* There are two categories of classification data: Binary and Non-binary classification
+
+![Binary classification](./images/binary-classification.png)
+*Binary classification*
 
 ## Day 4 (29/01/2021)
 
@@ -88,4 +93,6 @@
 ![dark-background-color-usage](./images/dark-background-color-usage.png)
 *Good colors for dark backgrounds*        *Image credit: [Datawrapper](https://blog.datawrapper.de/beautifulcolors/)
 
+## DAY 11 (05/02/2021)
 
+## DAY 12 (06/02/2021)
