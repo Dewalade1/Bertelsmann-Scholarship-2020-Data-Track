@@ -136,3 +136,13 @@
 ![alteryx](./images/results.png)
 
 *Linear Regression Report from Alteryx*
+
+
+## Day 13 (07/02/2021)
+
+* Started on lesson 4
+* Still working on developing a good model for the practice project.
+
+![workflow](./images/practice-project-workflow.png)
+
+*My practice project workflow (still a work in progress)*
