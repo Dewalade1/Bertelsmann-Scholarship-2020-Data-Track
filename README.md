@@ -146,3 +146,10 @@
 ![workflow](./images/practice-project-workflow.png)
 
 *My practice project workflow (still a work in progress)*
+
+## Day 14 (08/02/2021)
+
+* started creating an analytical dataset course
+* Learnt about types and sources of datasets
+
+## Day 15 (09/02/2021)
