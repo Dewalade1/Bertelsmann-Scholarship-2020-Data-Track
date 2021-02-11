@@ -153,3 +153,11 @@
 * Learnt about types and sources of datasets
 
 ## Day 15 (09/02/2021)
+
+* Took a break to go to the hospital to see my Dad
+
+## Day 16 (10/02/2021)
+
+* Started on Project 1
+
+## Day 17 (11/02/2021)
