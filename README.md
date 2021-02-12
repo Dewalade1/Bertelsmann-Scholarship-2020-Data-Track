@@ -161,3 +161,8 @@
 * Started on Project 1
 
 ## Day 17 (11/02/2021)
+
+## DAY 18 (12/02/2021)
+
+* Continued working on project 1
+* Finished a workflow for project 1
