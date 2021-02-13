@@ -166,3 +166,8 @@
 
 * Continued working on project 1
 * Finished a workflow for project 1
+
+## Day 19 (13/02/2021)
+
+* Created a working working workflow for the practice project
+* Solved the question but my profit is still out of range so im going to revisit the formula i'm using
