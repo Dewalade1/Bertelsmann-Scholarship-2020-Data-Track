@@ -171,3 +171,9 @@
 
 * Created a working working workflow for the practice project
 * Solved the question but my profit is still out of range so im going to revisit the formula i'm using
+
+## Day 20 (14/02/2021)
+
+* Celebrating completing a third of the challenge!!
+* Finally figured out the correct formula for calculating profit. Lets move forward!!
+* Happy Valentine's day
