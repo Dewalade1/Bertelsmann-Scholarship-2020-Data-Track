@@ -176,6 +176,11 @@ Had to go to the hospital to see my Dad
 
 ## Day 17 (11/02/2021)
 
+* Finished lesson 1 of the creating an analytical dataset course
+* Learnt about the different data types and data sources
+
+![]()
+
 ## DAY 18 (12/02/2021)
 
 * Continued working on project 1
