@@ -177,3 +177,7 @@
 * Celebrating completing a third of the challenge!!
 * Finally figured out the correct formula for calculating profit. Lets move forward!!
 * Happy Valentine's day
+
+## Day 21 (15/02/2021)
+
+* Read Chapter two of the book: Learn algorithms through problem solving
