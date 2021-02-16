@@ -122,11 +122,17 @@
 ## DAY 11 (05/02/2021)
 
 * Learnt about r-squared and adjusted r-squared for linear and multiple linear regression analysis
-* Signed up for Alteryx
-
+* To know how good the formula is at approximating the data by calculating the coefficient of determination, or r-squared. R-squared is a coefficient between 0 and 1.
+  * closer to 1: nearly all variance in the target variable is explained by the model
+  * closer to 0: nearly none of the variance in the target variable is explained by the model.
+  * In general: above 0.7 are considered strong and below 0.3 are considered weak.
+  
 ![R squared](./images/r-squared.png)
 
 *R-Squared*
+
+* Signed up for Alteryx
+
 
 ## DAY 12 (06/02/2021)
 
