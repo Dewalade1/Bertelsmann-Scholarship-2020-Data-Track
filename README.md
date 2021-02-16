@@ -154,11 +154,19 @@
 
 ## Day 15 (09/02/2021)
 
-* Took a break to go to the hospital to see my Dad
+Had to go to the hospital to see my Dad
+* Finally started project 1
+* Checked all numerical and categorical variables for a relationship with the avg_sale_amount column
+* Started working on my workflow
 
 ## Day 16 (10/02/2021)
 
-* Started on Project 1
+* Completed the practice project
+* Scored my model and got a bid recommendation of approximately $8,236,000 for 3000 diamonds
+
+![](./images/)
+
+*Practice project workflow*
 
 ## Day 17 (11/02/2021)
 
