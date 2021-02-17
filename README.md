@@ -200,3 +200,8 @@ Had to go to the hospital to see my Dad
 ## Day 21 (15/02/2021)
 
 * Read Chapter two of the book: Learn algorithms through problem solving
+
+## Day 22 (16/02/2021)
+
+* Started lesson 2 of the creating an analytical dataset course
+* Learnt about the properties of dirty data and dealing with missing data
