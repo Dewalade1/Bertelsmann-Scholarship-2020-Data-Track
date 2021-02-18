@@ -205,3 +205,12 @@ Had to go to the hospital to see my Dad
 
 * Started lesson 2 of the creating an analytical dataset course
 * Learnt about the properties of dirty data and dealing with missing data
+
+## Day 23 (17/02/2021)
+
+* Finished Lesson 2 of the creating an analytical dataset course
+* You can deal with missing data by either one of the following:
+  * imputing the mean, median or mode
+  * multiple imputation method 
+  * full information maximum likelihood
+  * Delete the rows or columns with missing data (least recommended)
