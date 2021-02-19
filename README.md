@@ -214,3 +214,15 @@ Had to go to the hospital to see my Dad
   * multiple imputation method 
   * full information maximum likelihood
   * Delete the rows or columns with missing data (least recommended)
+
+## Day 24 (18/02/2021)
+
+* Started lesson 3 of the creating an analytical dataset course
+* Learnt about how to impute missing data
+* Learnt that we should consider missing data factors such as:
+  * How much data is missing?
+  * How the missing data is distributed?
+  * Is the missing data significant?
+  * Is the missing data categorical or numerical?
+
+**Thoughts:** Missing data can affect data in many ways.
