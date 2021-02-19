@@ -200,6 +200,14 @@ Had to go to the hospital to see my Dad
 ## Day 21 (15/02/2021)
 
 * Read Chapter two of the book: Learn algorithms through problem solving
+* Learnt about the diffent types of algorithms
+  * Recursive algorithms: Called in themselves
+  * Divide and conquer algorithms: Split problems into subproblems
+  * Randomized Algorithms: Randomizes solving process
+  * Exhaustive search: Most inefficient algorithms
+  * Greedy algorithms: Make the best possible choice at the time
+
+**Thoughs:** There are many kinds of algorithms
 
 ## Day 22 (16/02/2021)
 
