@@ -234,3 +234,8 @@ Had to go to the hospital to see my Dad
   * Is the missing data categorical or numerical?
 
 **Thoughts:** Missing data can affect data in many ways.
+
+## DAY 25 (19/02/2021)
+
+* Started lesson 4 of the creating an analytical dataset course
+* Learned about outliers and their effects on the dataset
