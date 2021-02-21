@@ -5,7 +5,7 @@
 
 *Credits: Unless specified, all images were gotten from Bertelsman scholarship data challenge course: Introduction to Problem Solving with Advanced Analytics Nanodegree Program by Udacity*
 
-## DAY 1 (26/01/2021)
+## DAY 1 (26/01/2021) | The journey begins
 
 * Restarted the pledge and reviewed lesson 1.
 * The basis of this lesson is to use the **Cross Industry Standard Process for Data Mining (CRISP-DM)** as a **Problem Solving Framework** for our Analysis.
@@ -24,7 +24,7 @@
 
 *Credit: The six steps to the problem-solving framework PDF file I Downloaded from the Bertelsmann Scholarship Data Track Slack Channel*
 
-## Day 2 (27/01/2021)
+## Day 2 (27/01/2021) | The methodology map
 
 * Studied lesson 2.1 - 2.8
 * The methodology map is meant to be used as we work our way through the analytical problem solving framework.
@@ -36,7 +36,7 @@
 ![Types of Data Analysis](./images/types-of-data-analysis.png)
 *Credit: Lesson2.pdf I downloaded from the Bertelsmann Scholarship Data Track Slack Channel*
 
-## Day 3 (28/01/2021)
+## Day 3 (28/01/2021) | Types of data
 
 * Completed Lesson 2
 * The methodology map can be used to select the proper model for solving a business problem.
@@ -58,7 +58,7 @@
 
 *Binary classification*
 
-## Day 4 (29/01/2021)
+## Day 4 (29/01/2021) | Leanear Regression
 
 * Started Lesson 3
 * Learnt to perform linear Regression and multiple linear regression analysis using excel
@@ -78,7 +78,7 @@
 
 *Graph of lack of correlation between predictor and target variables*
 
-## Day 5 (30/01/2021)
+## Day 5 (30/01/2021) | Parallel Processing
 
 * Learnt about parallel processing in python on Dataquest.
 * Parallel processing can be used to run multiple tasks at the same time.
@@ -88,7 +88,7 @@
 * A shared memory location (shared value) can be created for all processes using the `multiprocessing.Value()` command
 * Shared values can be locked from processes preventing them from being updated by certain processes by using a **lock**
 
-## DAY 6 (31/01/2021)
+## DAY 6 (31/01/2021) | Time management
 
 * Studied a course on Time Management
 
@@ -246,7 +246,7 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Its best not to perform analysis with dirty data
 
-## Day 23 (17/02/2021)
+## Day 23 (17/02/2021) | Dealing with missing data
 
 * Finished Lesson 2 of the creating an analytical dataset course
 * You can deal with missing data by either one of the following:
@@ -254,6 +254,8 @@ Had to go to the hospital to see my Dad
   * multiple imputation method 
   * full information maximum likelihood
   * Delete the rows or columns with missing data (least recommended)
+
+**Thoughts:** There are several methods of dealing with missing data
 
 ## Day 24 (18/02/2021)
 
