@@ -212,7 +212,16 @@ Had to go to the hospital to see my Dad
 ## Day 22 (16/02/2021)
 
 * Started lesson 2 of the creating an analytical dataset course
-* Learnt about the properties of dirty data and dealing with missing data
+* Learnt about the properties of dirty data and dealing with missing data. Dirty data usually contains:
+    * Not correctly parsed data
+    * Extra Characters
+    * Misspelled Entries
+    * Duplicate records
+    * Incorrect data
+    * Unexpected Patterns
+* Learnt reasons to deal with missing data which are:
+    * Prevent model bias
+    * some models don't work with missing data
 
 ## Day 23 (17/02/2021)
 
