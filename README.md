@@ -18,7 +18,7 @@
   6. Presentation/ Visualization.
 * Steps of the CRISP-DM framework may be performed multiple times or restart the entire problem solving framework and revise some of the assumptions and decisions made along the way.
 
-**Note:** Don't throw all your data at your model and hope for the best
+**Thoughts:** Don't throw all your data at your model and hope for the best
 
 ![The Problem solving framework](./images/the-problem-solving-framework.png)
 
@@ -31,6 +31,8 @@
 * It helps us decide which methodology to use to solve a business problem.
 * There are 2 types of businesss problems: Predictive and Analytical.
 
+**Thoughts:** The type of bussiness problem you have depends on the purpose of the analysis
+
 ![Types of Data Analysis](./images/types-of-data-analysis.png)
 *Credit: Lesson2.pdf I downloaded from the Bertelsmann Scholarship Data Track Slack Channel*
 
@@ -38,8 +40,15 @@
 
 * Completed Lesson 2
 * The methodology map can be used to select the proper model for solving a business problem.
-* There are three types of numerical data: Count, Categorical and Time-series
-* There are two categories of classification data: Binary and Non-binary classification
+* There are three types of numerical data: 
+    * Count
+    * Categorical
+    * Time-series
+* There are two categories of classification data: 
+    * Binary classification
+    * Non-binary classification
+
+**Thoughts:** Data comes in different types
 
 ![numeric datatypes](./images/numeric-data-types.png)
 
@@ -54,6 +63,8 @@
 * Started Lesson 3
 * Learnt to perform linear Regression and multiple linear regression analysis using excel
 * Learnt about correlation between predictor and target variables.
+
+**Thoughts:** There must be correlation between predictors and target variable to make good predictions with linear regression
 
 ![linear Regression](./images/linear-regression.png)
 
