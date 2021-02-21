@@ -85,9 +85,19 @@
 
  * Took a course on executive datastory telling by Data Story Acadamy
  * I learnt about the general types of executives and their prefered data story and dashboard delivery methods
- * The 5 types are the Data Geek (loves data), Emailer (prefers emails), Traveler (travels a lot so their always on their phones), Presenter (loves presentations) and Old School (prefers PDFs & printouts)
+ * The 5 executive types are: 
+    * **The Data Geek:** loves to look at data.
+    * **Emailer:** prefers getting reports through emails.
+    * **Traveler:** travels a lot so their always on their phones. Send reports designed for phones.
+    * **Presenter:** loves presentations. Prefers that you present your reports on a spreadsheed. 
+    * **Old School** prefers reporting through PDFs & printouts
  * I learnt that understanding your executives priorities help deliver better data stories.
- * To understand them, ask questions about what they whanna answer, what actions they intend to take with the results, and what key results or metric they are after
+ * To understand them, ask questions about:
+    *  what questions they wanna answer
+    *  what actions they intend to take with the results
+    *  what key results or metrics they are after
+
+**Thoughts:** Learning about your excecutives would make one a more useful analyst for the company
  
 ## DAY 8 (02/02/2021)
 
@@ -123,15 +133,15 @@
 
 * Learnt about r-squared and adjusted r-squared for linear and multiple linear regression analysis
 * To know how good the formula is at approximating the data by calculating the coefficient of determination, or r-squared. R-squared is a coefficient between 0 and 1.
-  * closer to 1: nearly all variance in the target variable is explained by the model
-  * closer to 0: nearly none of the variance in the target variable is explained by the model.
-  * In general: above 0.7 are considered strong and below 0.3 are considered weak.
+  * **closer to 1:** nearly all variance in the target variable is explained by the model
+  * **closer to 0:** nearly none of the variance in the target variable is explained by the model.
+  * In general, above 0.7 are considered strong and below 0.3 are considered weak.
   
 ![R squared](./images/r-squared.png)
 
 *R-Squared*
 
-* Signed up for Alteryx
+* Signed up for Alteryx trial version
 
 
 ## DAY 12 (06/02/2021)
@@ -250,6 +260,8 @@ Had to go to the hospital to see my Dad
 
 * Started lesson 4 of the creating an analytical dataset course
 * Learned about outliers and their effects on the dataset
+
+**Thoughts:** Outliers can affect data
 
 ## DAY 26 (21/02/2021)
 
