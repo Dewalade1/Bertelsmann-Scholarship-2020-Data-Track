@@ -223,6 +223,8 @@ Had to go to the hospital to see my Dad
     * Prevent model bias
     * some models don't work with missing data
 
+**Thoughts:** Its best not to perform analysis with dirty data
+
 ## Day 23 (17/02/2021)
 
 * Finished Lesson 2 of the creating an analytical dataset course
@@ -248,3 +250,11 @@ Had to go to the hospital to see my Dad
 
 * Started lesson 4 of the creating an analytical dataset course
 * Learned about outliers and their effects on the dataset
+
+## DAY 26 (21/02/2021)
+
+* Finished lesson 4 of the creating an analytical dataset course
+* Learnt about dealing with outliers
+* Learnt about performing analysis on spacial data with alteryx
+
+**Thoughts:** Outliers may have good effects on data or not. Removing them is dependent on how much bias they introduce to the data and if they are true or not.
