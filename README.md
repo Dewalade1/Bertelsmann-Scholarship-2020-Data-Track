@@ -257,7 +257,7 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** There are several methods of dealing with missing data
 
-## Day 24 (18/02/2021)
+## Day 24 (18/02/2021) | Missing data
 
 * Started lesson 3 of the creating an analytical dataset course
 * Learnt about how to impute missing data
@@ -276,10 +276,19 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Outliers can affect data
 
-## DAY 26 (21/02/2021)
+## DAY 26 (20/02/2021)
 
 * Finished lesson 4 of the creating an analytical dataset course
 * Learnt about dealing with outliers
 * Learnt about performing analysis on spacial data with alteryx
 
 **Thoughts:** Outliers may have good effects on data or not. Removing them is dependent on how much bias they introduce to the data and if they are true or not.
+
+## Day 27 (21/02/2021)
+
+* Learned there are different ways of dealing with outliers
+    * **Cross-tabbing:** taking data within a field and summarizing other data to the values within that field & create a matrix.
+    * **Truncating:** changing outlier to the maximum or minimum possible value
+
+**Thoughts:** There are ways of figuring out how best to handle data
+
