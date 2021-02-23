@@ -292,3 +292,6 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** There are ways of figuring out how best to handle data
 
+## Day 28 (22/02/2021)
+
+* Started studying Time series forecasting on udacity
