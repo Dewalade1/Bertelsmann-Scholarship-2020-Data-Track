@@ -92,7 +92,7 @@
 
 * Studied a course on Time Management
 
-## DAY 7 (01/02/2021)
+## DAY 7 (01/02/2021) | Executive Datastory Telling
 
  * Took a course on executive datastory telling by Data Story Acadamy
  * I learnt about the general types of executives and their prefered data story and dashboard delivery methods
@@ -269,14 +269,14 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Missing data can affect data in many ways.
 
-## DAY 25 (19/02/2021)
+## DAY 25 (19/02/2021) | Outliers
 
 * Started lesson 4 of the creating an analytical dataset course
 * Learned about outliers and their effects on the dataset
 
 **Thoughts:** Outliers can affect data
 
-## DAY 26 (20/02/2021)
+## DAY 26 (20/02/2021) | Dealing with outliers
 
 * Finished lesson 4 of the creating an analytical dataset course
 * Learnt about dealing with outliers
@@ -284,7 +284,7 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Outliers may have good effects on data or not. Removing them is dependent on how much bias they introduce to the data and if they are true or not.
 
-## Day 27 (21/02/2021)
+## Day 27 (21/02/2021) | Dealing with outliers (cont.d)
 
 * Learned there are different ways of dealing with outliers
     * **Cross-tabbing:** taking data within a field and summarizing other data to the values within that field & create a matrix.
@@ -292,6 +292,6 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** There are ways of figuring out how best to handle data
 
-## Day 28 (22/02/2021)
+## Day 28 (22/02/2021) | Time Series Forecasting
 
 * Started studying Time series forecasting on udacity
