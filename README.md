@@ -295,6 +295,16 @@ Had to go to the hospital to see my Dad
 ## Day 28 (22/02/2021) | Time Series Forecasting
 
 * Started studying Time series forecasting on udacity
+* Learnt about forecast methods:
+    * Average method
+    * Moving average method
+    * Naive method
+    * Seasonal Naive method
+    * Exponential Smoothing method
+* Learnt about trends and trend cycles
+
+**Thoughts:** There are many forecast methods
+
 
 ## Day 29 (23/02/2021) | ETS Models
 
