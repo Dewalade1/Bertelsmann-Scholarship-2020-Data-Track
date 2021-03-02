@@ -295,3 +295,16 @@ Had to go to the hospital to see my Dad
 ## Day 28 (22/02/2021) | Time Series Forecasting
 
 * Started studying Time series forecasting on udacity
+
+## Day 29 (23/02/2021) | ETS Models
+
+* Continued studying Time series forecasting on udacity
+* Learnt about ETS models
+* ETS stands for Error, Trend and Seasonality
+* There are four types of ETS models:   
+  * Simple Exponential Smoothing Method: Useful for No Trend, No seasonality Scenarios
+  * Holt's linear Trend (Aka Double Exponential Smoothing) method: Useful for Trend, No seasonality Scenarios
+  * Exponential Trend Method: Useful for Trend, No seasonality Scenarios
+  * Holt's-Winters Seasonal Method: Useful for Trend and Seasonality Scenarios
+
+**Thoughts:** ETS models are a family of models used to solve time series problems.
