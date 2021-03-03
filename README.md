@@ -324,3 +324,6 @@ Had to go to the hospital to see my Dad
 * Yay!! I'm at the half way point
 * Took a quiz today made by @Asad.Udacity from the #quizzes channel
 
+![quiz-result](./images/quiz-result.png)
+
+*Quiz Result*
