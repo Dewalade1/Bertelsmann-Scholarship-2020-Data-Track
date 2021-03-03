@@ -318,3 +318,9 @@ Had to go to the hospital to see my Dad
   * Holt's-Winters Seasonal Method: Useful for Trend and Seasonality Scenarios
 
 **Thoughts:** ETS models are a family of models used to solve time series problems.
+
+## Day 30 (24/02/2021) | 50% Milestone
+
+* Yay!! I'm at the half way point
+* Took a quiz today made by @Asad.Udacity from the #quizzes channel
+
