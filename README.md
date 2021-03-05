@@ -324,6 +324,14 @@ Had to go to the hospital to see my Dad
 * Yay!! I'm at the half way point
 * Took a quiz today made by @Asad.Udacity from the #quizzes channel
 
+**Thoughts:** The quiz was a nice reminder of the course
+
 ![quiz-result](./images/quiz-result.png)
 
 *Quiz Result*
+
+## Day 31 (25/02/2021) | Working with my mentor
+* Reviewed Lesson 3 of the course
+* Working with my mentor @Giulio Baldessari to finish and understand lesson 5
+
+**Thoughts:** I'm learning a lot from my mentor
