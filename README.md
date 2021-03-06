@@ -335,3 +335,11 @@ Had to go to the hospital to see my Dad
 * Working with my mentor @Giulio Baldessari to finish and understand lesson 5
 
 **Thoughts:** I'm learning a lot from my mentor
+
+## Day 32 (26/02/2021) | Reinforcement Learning
+
+* Watched a lecture on Reinforcement Learning on YouTube
+* Learned that reinforcement learning is the third branch of machine learning
+* Learnt about policy making
+
+**Thoughts:** Reinforcement Learning seems like a good area to explore
