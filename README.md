@@ -343,3 +343,12 @@ Had to go to the hospital to see my Dad
 * Learnt about policy making
 
 **Thoughts:** Reinforcement Learning seems like a good area to explore
+
+## Day 33 of #60daysofudacity
+
+* Studied lesson 2 of the Time series forecasting course on Udacity
+* Learnt about ETS models
+* Learnt the effects of error trend and seasonality on time series data
+* Learnt to make time series forecasts using ETS models on alteryx
+
+**Thoughts:** ETS models can account for seasonality in time series data
