@@ -344,7 +344,7 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Reinforcement Learning seems like a good area to explore
 
-## Day 33 of #60daysofudacity
+## Day 33 (27/02/2021) | ETS models
 
 * Studied lesson 2 of the Time series forecasting course on Udacity
 * Learnt about ETS models
@@ -352,3 +352,15 @@ Had to go to the hospital to see my Dad
 * Learnt to make time series forecasts using ETS models on alteryx
 
 **Thoughts:** ETS models can account for seasonality in time series data
+
+## Day 34 (28/02/2021) | ARIMA models
+
+* Studied lesson 3 of the Time series forecasting course on Udacity
+    * Learnt about ARIMA and seasonal ARIMA models
+    * Learnt abut the Auto Regressive, Integrated and the moving average properties of time series data
+    * Learnt how to read ACF and PACF plots 
+    * Learnt how to make a time series plot stationary (by differencing)
+    * Learnt to make time series forecasts using ARIMA models on alteryx
+
+**Thoughts:** ARIMA models account for seasonality better than ETS models
+
