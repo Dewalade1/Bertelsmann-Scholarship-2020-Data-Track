@@ -364,7 +364,15 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** ARIMA models account for seasonality better than ETS models
 
-## D36 of #60daysofudacity | Study Jam Quiz
+## Day 36 (01/03/2021) | Study Jam Quiz
+
 * Took the study jam quiz @shereen bashar made for the study jam on saturday. Thank you for the quiz
 
 **Thoughts:** The quiz helped me refresh my memory of the course's lessons
+
+## Day 37 (02/03/2021) | Analyzing and Visualizing time-series forecasting results
+
+* Learnt about residual plots
+* Learnt about calculating and interpreting errors
+
+**Thoughts:** Minimize errors for the most accurate results
