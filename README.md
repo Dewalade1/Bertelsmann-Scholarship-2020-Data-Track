@@ -377,4 +377,7 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Minimize errors for the most accurate results
 
-## Day 38 (03/03/2021) | 
+## Day 38 (03/03/2021) | Web app project
+
+* Started working on a personal web app project
+
