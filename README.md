@@ -376,3 +376,5 @@ Had to go to the hospital to see my Dad
 * Learnt about calculating and interpreting errors
 
 **Thoughts:** Minimize errors for the most accurate results
+
+## Day 38 (03/03/2021) | 
