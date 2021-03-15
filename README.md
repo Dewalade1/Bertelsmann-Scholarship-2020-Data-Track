@@ -381,3 +381,6 @@ Had to go to the hospital to see my Dad
 
 * Started working on a personal web app project
 
+## Day 39 (04/03/2021) | Sick day
+
+* Couldn't do much today because I fell ill
