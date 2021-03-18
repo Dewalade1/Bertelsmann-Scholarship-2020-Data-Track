@@ -384,3 +384,7 @@ Had to go to the hospital to see my Dad
 ## Day 39 (04/03/2021) | Sick day
 
 * Couldn't do much today because I fell ill
+
+## Day 40 (05/03/2021) | Resource gathering
+
+* Gathered resources for my web development project moviecritics
