@@ -381,6 +381,8 @@ Had to go to the hospital to see my Dad
 
 * Started working on a personal web app project
 
+**Thoughts:** Really excited to start working on this project
+
 ## Day 39 (04/03/2021) | Sick day
 
 * Couldn't do much today because I fell ill
@@ -388,6 +390,8 @@ Had to go to the hospital to see my Dad
 ## Day 40 (05/03/2021) | Resource gathering
 
 * Gathered resources for my web development project moviecritics
+
+**Thoughts:** These should help spice up the website
 
 ## Day 41 (06/03/2021) | Work on celebrities page
 
