@@ -397,3 +397,11 @@ Had to go to the hospital to see my Dad
 
 * Worked on the celebrities page of my moviecritics app
   * Added a profile section layout
+
+**Thoughts:** The profile gives details of the celebrity
+
+## Day 42 (07/03/2021) | Changed style from inline css to file css
+
+* Changed inline css of files in pages folder of moviecritics
+
+**Thoughts:** The styles 
