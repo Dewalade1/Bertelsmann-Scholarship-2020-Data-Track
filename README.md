@@ -404,4 +404,4 @@ Had to go to the hospital to see my Dad
 
 * Changed inline css of files in pages folder of moviecritics
 
-**Thoughts:** The styles 
+**Thoughts:** Moving the styles to css files makes the code neater
