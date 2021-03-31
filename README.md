@@ -405,3 +405,9 @@ Had to go to the hospital to see my Dad
 * Changed inline css of files in pages folder of moviecritics
 
 **Thoughts:** Moving the styles to css files makes the code neater
+
+## Day 43 (08/03/2021) | About us page of Moviecritics
+
+* created an about us page for moviecritics
+
+**Thoughts:** Its a simple page with placeholder text
