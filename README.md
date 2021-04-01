@@ -411,3 +411,9 @@ Had to go to the hospital to see my Dad
 * created an about us page for moviecritics
 
 **Thoughts:** Its a simple page with placeholder text
+
+## Day 44 (09/03/2021) | SQL Fundamentals
+
+* Studied the fundamentals of SQL on Dataquest the SQL skill path
+
+**Thoughts:** SQL is very useful for managing data
