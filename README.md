@@ -5,7 +5,7 @@
 
 *Credits: Unless specified, all images were gotten from Bertelsman scholarship data challenge course: Introduction to Problem Solving with Advanced Analytics Nanodegree Program by Udacity*
 
-## DAY 1 (26/01/2021) | The journey begins
+## Day 1 (26/01/2021) | The journey begins
 
 * Restarted the pledge and reviewed lesson 1.
 * The basis of this lesson is to use the **Cross Industry Standard Process for Data Mining (CRISP-DM)** as a **Problem Solving Framework** for our Analysis.
@@ -88,11 +88,11 @@
 * A shared memory location (shared value) can be created for all processes using the `multiprocessing.Value()` command
 * Shared values can be locked from processes preventing them from being updated by certain processes by using a **lock**
 
-## DAY 6 (31/01/2021) | Time management
+## Day 6 (31/01/2021) | Time management
 
 * Studied a course on Time Management
 
-## DAY 7 (01/02/2021) | Executive Datastory Telling
+## Day 7 (01/02/2021) | Executive Datastory Telling
 
  * Took a course on executive datastory telling by Data Story Acadamy
  * I learnt about the general types of executives and their prefered data story and dashboard delivery methods
@@ -110,12 +110,12 @@
 
 **Thoughts:** Learning about your excecutives would make one a more useful analyst for the company
  
-## DAY 8 (02/02/2021)
+## Day 8 (02/02/2021)
 
 * Studied Chapter 2: Flow control of automate the boring stuff with python.
 * Learnt about using flowcharts and the elements of flow control.
 
-## DAY 9 (03/02/2021)
+## Day 9 (03/02/2021)
 
 * I spent the day downloading and installing alteryx on my windows PC
 
@@ -123,7 +123,7 @@
 
 *Credit: Me*
 
-## DAY 10 (04/02/2021)
+## Day 10 (04/02/2021)
 
 * I learnt how to choose colors to [make your visualizations look more professional](https://blog.datawrapper.de/beautifulcolors/)
 * I also learned to [never use pure black in visualizations](https://ianstormtaylor.com/design-tip-never-use-black/)
@@ -140,7 +140,7 @@
 *Good colors for dark backgrounds*        
 *Image credit: [Datawrapper](https://blog.datawrapper.de/beautifulcolors/)
 
-## DAY 11 (05/02/2021)
+## Day 11 (05/02/2021)
 
 * Learnt about r-squared and adjusted r-squared for linear and multiple linear regression analysis
 * To know how good the formula is at approximating the data by calculating the coefficient of determination, or r-squared. R-squared is a coefficient between 0 and 1.
@@ -155,7 +155,7 @@
 * Signed up for Alteryx trial version
 
 
-## DAY 12 (06/02/2021)
+## Day 12 (06/02/2021)
 
 * Completed lesson 3
 * Learnt how to read an alteryx data analysis report
@@ -276,7 +276,7 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Outliers can affect data
 
-## DAY 26 (20/02/2021) | Dealing with outliers
+## Day 26 (20/02/2021) | Dealing with outliers
 
 * Finished lesson 4 of the creating an analytical dataset course
 * Learnt about dealing with outliers
