@@ -420,10 +420,14 @@ Had to go to the hospital to see my Dad
 
 ## Day 45 (10/03/2021) | SQL Intermediate
 
-* Studied about functions and clauses in SQL queries.
+* Studied about functions and clauses in SQL queries on Dataquest.
 * Learnt about:
   *  `CASE` statements
   *   `ORDER BY`
   *   `LIMITS`
 
 **Thoughts:** Learnt a lot about querying SQL databases
+
+## Day 46 (!1/03/2021) | SQL ANALYSIS
+
+* Studies the queries and methods used in making analysis in SQL
