@@ -417,3 +417,13 @@ Had to go to the hospital to see my Dad
 * Studied the fundamentals of SQL on Dataquest the SQL skill path
 
 **Thoughts:** SQL is very useful for managing data
+
+## Day 45 (10/03/2021) | SQL Intermediate
+
+* Studied about functions and clauses in SQL queries.
+* Learnt about:
+  *  `CASE` statements
+  *   `ORDER BY`
+  *   `LIMITS`
+
+**Thoughts:** Learnt a lot about querying SQL databases
