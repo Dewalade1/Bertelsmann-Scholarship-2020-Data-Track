@@ -428,6 +428,8 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Learnt a lot about querying SQL databases
 
-## Day 46 (!1/03/2021) | SQL ANALYSIS
+## Day 46 (11/03/2021) | SQL ANALYSIS
 
 * Studies the queries and methods used in making analysis in SQL
+
+## Day 47 (12/03/2021)
