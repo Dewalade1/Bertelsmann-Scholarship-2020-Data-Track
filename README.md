@@ -433,3 +433,4 @@ Had to go to the hospital to see my Dad
 * Studies the queries and methods used in making analysis in SQL
 
 ## Day 47 (12/03/2021)
+## Day 48
