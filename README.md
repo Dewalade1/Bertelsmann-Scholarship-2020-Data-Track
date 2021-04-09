@@ -440,7 +440,11 @@ Had to go to the hospital to see my Dad
 
 * Learnt more about the various data analysis processes
 
-## Day 49 (14/03/2021)
+## Day 49 (14/03/2021) | Rest day
+
+* Took the day off from the course to get some much needed rest
+
+**Thoughts:** Rest helps a lot with improving productivity
 
 ## Day 50 (15/03/2021)
 
