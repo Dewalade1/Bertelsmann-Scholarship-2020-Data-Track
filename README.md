@@ -446,6 +446,10 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Rest helps a lot with improving productivity
 
-## Day 50 (15/03/2021)
+## Day 50 (15/03/2021) | Report Writing
+
+* Learnt the basics of report writing
+
+**Thoughts:** Report Writing is essential to become a good analyst
 
 ## Day 51 (16/03/2021)
