@@ -453,3 +453,5 @@ Had to go to the hospital to see my Dad
 **Thoughts:** Report Writing is essential to become a good analyst
 
 ## Day 51 (16/03/2021)
+
+## Day 52 (17/03/2021))
