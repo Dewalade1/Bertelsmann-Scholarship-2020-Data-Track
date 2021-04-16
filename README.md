@@ -88,9 +88,13 @@
 * A shared memory location (shared value) can be created for all processes using the `multiprocessing.Value()` command
 * Shared values can be locked from processes preventing them from being updated by certain processes by using a **lock**
 
+**Thoughts:** Parallel processing is a way to run multiple tasks concurrently
+
 ## Day 6 (31/01/2021) | Time management
 
 * Studied a course on Time Management
+
+**Thoughts:** Time management is an effective way to get tasks done
 
 ## Day 7 (01/02/2021) | Executive Datastory Telling
 
