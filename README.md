@@ -131,13 +131,15 @@
 
 **Thoughts:** Alteryx is easy to install and setup
 
-## Day 10 (04/02/2021)
+## Day 10 (04/02/2021) | Data visualization
 
 * I learnt how to choose colors to [make your visualizations look more professional](https://blog.datawrapper.de/beautifulcolors/)
 * I also learned to [never use pure black in visualizations](https://ianstormtaylor.com/design-tip-never-use-black/)
 * I also learnt good ways to choose color lighting is to [check colors in greyscale](https://blog.datawrapper.de/colorblind-check/) using [Color Oracle](http://www.colororacle.org/) and [Vizcheck](http://vischeck.com/)
 * I found some useful tools to help me select better colors for my visualizations. These tools are: [Adobe Color](https://color.adobe.com/create/color-wheel), [Color Calculator](https://www.sessions.edu/color-calculator/), and [Learnui color palette picker](https://learnui.design/tools/data-color-picker.html#palette) 
 * I found tools to pick out image colors using [Color Picker](https://image-color.com/) and [Adobe Capture](https://www.adobe.com/products/capture.html)
+
+**Thoughts:** Visualization design is all about color understanding 
 
 ![Color Wheel](./images/color-wheel.png)
 
@@ -148,7 +150,7 @@
 *Good colors for dark backgrounds*        
 *Image credit: [Datawrapper](https://blog.datawrapper.de/beautifulcolors/)
 
-## Day 11 (05/02/2021)
+## Day 11 (05/02/2021) | R-squared and adjusted R-squared 
 
 * Learnt about r-squared and adjusted r-squared for linear and multiple linear regression analysis
 * To know how good the formula is at approximating the data by calculating the coefficient of determination, or r-squared. R-squared is a coefficient between 0 and 1.
@@ -162,6 +164,7 @@
 
 * Signed up for Alteryx trial version
 
+**Thoughts:** adjusted r-squared is more useful for assessing multiple linear regression models than linear regression models.
 
 ## Day 12 (06/02/2021)
 
