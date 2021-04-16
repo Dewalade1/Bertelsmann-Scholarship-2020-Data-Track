@@ -114,18 +114,22 @@
 
 **Thoughts:** Learning about your excecutives would make one a more useful analyst for the company
  
-## Day 8 (02/02/2021)
+## Day 8 (02/02/2021) | Flowcharts
 
 * Studied Chapter 2: Flow control of automate the boring stuff with python.
 * Learnt about using flowcharts and the elements of flow control.
 
-## Day 9 (03/02/2021)
+**Thoughts:** Flowcharts are a diagramatic way of representing algorithms. They are very easy to understand.
+
+## Day 9 (03/02/2021) | Alteryx installation
 
 * I spent the day downloading and installing alteryx on my windows PC
 
 ![Alteryx downloader](./images/alteryx-installation.png)
 
 *Credit: Me*
+
+**Thoughts:** Alteryx is easy to install and setup
 
 ## Day 10 (04/02/2021)
 
