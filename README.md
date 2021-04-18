@@ -166,7 +166,7 @@
 
 **Thoughts:** adjusted r-squared is more useful for assessing multiple linear regression models than linear regression models.
 
-## Day 12 (06/02/2021)
+## Day 12 (06/02/2021) | Alteryx Data Analysis Reports
 
 * Completed lesson 3
 * Learnt how to read an alteryx data analysis report
@@ -175,8 +175,9 @@
 
 *Linear Regression Report from Alteryx*
 
+**Thoughts:** Alteryx gives a very detailed report
 
-## Day 13 (07/02/2021)
+## Day 13 (07/02/2021) | Scholarship course practice project
 
 * Started on lesson 4
 * Still working on developing a good model for the practice project.
@@ -184,6 +185,8 @@
 ![workflow](./images/practice-project-workflow.png)
 
 *My practice project workflow (still a work in progress)*
+
+**Thoughts:** Developing a good workflow for the pracrice project wasn't an easy tast
 
 ## Day 14 (08/02/2021)
 
