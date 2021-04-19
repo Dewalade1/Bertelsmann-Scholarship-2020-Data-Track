@@ -204,7 +204,7 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Project one is progressing fine
 
-## Day 16 (10/02/2021)
+## Day 16 (10/02/2021) | Practice project
 
 * Completed the practice project
 * Scored my model and got a bid recommendation of approximately $8,236,000 for 3000 diamonds
@@ -212,6 +212,8 @@ Had to go to the hospital to see my Dad
 ![](./images/)
 
 *Practice project workflow*
+
+**Thoughts:** Worked on practice project today
 
 ## Day 17 (11/02/2021)
 
