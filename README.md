@@ -188,17 +188,21 @@
 
 **Thoughts:** Developing a good workflow for the pracrice project wasn't an easy tast
 
-## Day 14 (08/02/2021)
+## Day 14 (08/02/2021) | Datasets
 
 * started creating an analytical dataset course
 * Learnt about types and sources of datasets
 
-## Day 15 (09/02/2021)
+**Thoughts:** There are different types of datasets and sources
+
+## Day 15 (09/02/2021) | Worked on project 1
 
 Had to go to the hospital to see my Dad
 * Finally started project 1
 * Checked all numerical and categorical variables for a relationship with the avg_sale_amount column
 * Started working on my workflow
+
+**Thoughts:** Project one is progressing fine
 
 ## Day 16 (10/02/2021)
 
