@@ -215,17 +215,21 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Worked on practice project today
 
-## Day 17 (11/02/2021)
+## Day 17 (11/02/2021) | Data types and sources
 
 * Finished lesson 1 of the creating an analytical dataset course
 * Learnt about the different data types and data sources
 
 ![]()
 
-## DAY 18 (12/02/2021)
+**Thoughts:** There are several data types and sources
+
+## DAY 18 (12/02/2021) | Predicting catalog demand project
 
 * Continued working on project 1
 * Finished a workflow for project 1
+
+**Thoughts:** Made progress with project 1
 
 ## Day 19 (13/02/2021)
 
