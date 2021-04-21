@@ -231,16 +231,20 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Made progress with project 1
 
-## Day 19 (13/02/2021)
+## Day 19 (13/02/2021) | Progress on practice project
 
 * Created a working working workflow for the practice project
 * Solved the question but my profit is still out of range so im going to revisit the formula i'm using
 
-## Day 20 (14/02/2021)
+**Thoughts:** Making good progress on the practice project workflow
+
+## Day 20 (14/02/2021) | One-third of the way completed milestone
 
 * Celebrating completing a third of the challenge!!
 * Finally figured out the correct formula for calculating profit. Lets move forward!!
 * Happy Valentine's day
+
+**Thoughts:** Feels good to have come this far
 
 ## Day 21 (15/02/2021)
 
