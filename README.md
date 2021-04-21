@@ -246,7 +246,7 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Feels good to have come this far
 
-## Day 21 (15/02/2021)
+## Day 21 (15/02/2021) | Types of algorithms
 
 * Read Chapter two of the book: Learn algorithms through problem solving
 * Learnt about the diffent types of algorithms
@@ -258,7 +258,7 @@ Had to go to the hospital to see my Dad
 
 **Thoughs:** There are many kinds of algorithms
 
-## Day 22 (16/02/2021)
+## Day 22 (16/02/2021) | Dirty Data
 
 * Started lesson 2 of the creating an analytical dataset course
 * Learnt about the properties of dirty data and dealing with missing data. Dirty data usually contains:
