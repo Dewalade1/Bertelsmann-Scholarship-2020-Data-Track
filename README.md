@@ -466,6 +466,8 @@ Had to go to the hospital to see my Dad
 
 * Learnt about the different forms of data analysis
 
+**Thoughts:** SQL queries and Python scripts are tools used in data analysis
+
 ## Day 48 (13/03/2021) | Data Analysis (contd)
 
 * Learnt more about the various data analysis processes
