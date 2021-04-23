@@ -472,6 +472,8 @@ Had to go to the hospital to see my Dad
 
 * Learnt more about the various data analysis processes
 
+**Thoughts:** There are various data analysis processes
+
 ## Day 49 (14/03/2021) | Rest day
 
 * Took the day off from the course to get some much needed rest
