@@ -460,6 +460,8 @@ Had to go to the hospital to see my Dad
 
 * Studies the queries and methods used in making analysis in SQL
 
+**Thoughts:** SQL queries are used to make analysis in SQL
+
 ## Day 47 (12/03/2021) | Data Analysis
 
 * Learnt about the different forms of data analysis
@@ -480,7 +482,7 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Report Writing is essential to become a good analyst
 
-## Day 51 (16/03/2021)
+## Day 51 (16/03/2021) | 
 
 ## Day 52 (17/03/2021))
 
