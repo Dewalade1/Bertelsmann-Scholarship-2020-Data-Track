@@ -489,6 +489,7 @@ Had to go to the hospital to see my Dad
 ## Day 51 (16/03/2021) | Report writing
 * Worked on my report today
 
+**Thoughts:** Making good progress on my report
 
 ## Day 52 (17/03/2021))
 
