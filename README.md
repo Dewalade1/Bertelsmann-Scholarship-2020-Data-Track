@@ -493,7 +493,7 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Making good progress on my report
 
-## Day 52 (17/03/2021) | Blog reading
+## Day 52 (17/03/2021) | Blog reading on the Ray library in python
 
 * Read a blog about python's [ray](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1) library.
   * [Ray](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1) is a parallel processing library.
