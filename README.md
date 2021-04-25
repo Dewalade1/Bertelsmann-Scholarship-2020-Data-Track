@@ -495,9 +495,10 @@ Had to go to the hospital to see my Dad
 
 ## Day 52 (17/03/2021) | Blog reading
 
-* Read a blog about python's raw library.
-  * Raw is a parallel processing library.
-  * It is reported to be 10x faster than the multiprocessing library which also serves the same purpose as raw
+* Read a blog about python's [ray](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1) library.
+  * [Ray](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1) is a parallel processing library.
+  * It is reported to be 10x faster than the multiprocessing library which also serves the same purpose as [ray](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1)
+  * Learn more about Ray here: https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1
 
 
 ## Day 53 (18/03/2021)
