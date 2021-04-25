@@ -60,7 +60,7 @@
 
 *Binary classification*
 
-## Day 4 (29/01/2021) | Leanear Regression
+## Day 4 (29/01/2021) | Linear Regression
 
 * Started Lesson 3
 * Learnt to perform linear Regression and multiple linear regression analysis using excel
@@ -493,7 +493,7 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Making good progress on my report
 
-## Day 52 (17/03/2021))
+## Day 52 (17/03/2021) | Blog reading
 
 ## Day 53 (18/03/2021)
 
