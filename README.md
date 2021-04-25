@@ -495,6 +495,11 @@ Had to go to the hospital to see my Dad
 
 ## Day 52 (17/03/2021) | Blog reading
 
+* Read a blog about python's raw library.
+  * Raw is a parallel processing library.
+  * It is reported to be 10x faster than the multiprocessing library which also serves the same purpose as raw
+
+
 ## Day 53 (18/03/2021)
 
 ## Day 54 (19/03/2021)
