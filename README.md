@@ -500,6 +500,7 @@ Had to go to the hospital to see my Dad
   * It is reported to be 10x faster than the multiprocessing library which also serves the same purpose as [ray](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1)
   * Learn more about Ray here: https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1
 
+**Thoughts:** [Ray](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1) seems like a very useful multiprocessing library. Its worth checking out and using on multiprocessing projects with large datasets.
 
 ## Day 53 (18/03/2021)
 
