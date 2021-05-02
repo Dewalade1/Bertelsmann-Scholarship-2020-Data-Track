@@ -465,6 +465,7 @@ Had to go to the hospital to see my Dad
 ## Day 46 (11/03/2021) | SQL ANALYSIS
 
 * Studies the queries and methods used in making analysis in SQL
+* Learnt how dynamic an SQL query can be
 
 **Thoughts:** SQL queries are used to make analysis in SQL
 
