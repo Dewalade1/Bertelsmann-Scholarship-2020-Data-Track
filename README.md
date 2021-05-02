@@ -95,6 +95,9 @@
 ## Day 6 (31/01/2021) | Time management
 
 * Studied a course on Time Management
+   * Learned that you need to focus on doing what is urgent and important first
+   * Delegate all unurgent and unimportant tasks
+   * Perform all unurgent or onimportant tasks when free
 
 **Thoughts:** Time management is an effective way to get tasks done
 
