@@ -175,6 +175,7 @@
 
 * Completed lesson 3
 * Learnt how to read an alteryx data analysis report
+* Learnt about p-values and r-squared values
 
 ![alteryx](./images/results.png)
 
