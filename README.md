@@ -449,6 +449,7 @@ Had to go to the hospital to see my Dad
 ## Day 44 (09/03/2021) | SQL Fundamentals
 
 * Studied the fundamentals of SQL on Dataquest the SQL skill path
+* Learnt about `SELECT` and `FROM` clauses
 
 **Thoughts:** SQL is very useful for managing data
 
