@@ -424,6 +424,7 @@ Had to go to the hospital to see my Dad
 ## Day 40 (05/03/2021) | Resource gathering
 
 * Gathered resources for my web development project moviecritics
+* Found some useful images
 
 **Thoughts:** These should help spice up the website
 
