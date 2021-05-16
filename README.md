@@ -509,7 +509,11 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** [Ray](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1) seems like a very useful multiprocessing library. Its worth checking out and using on multiprocessing projects with large datasets.
 
-## Day 53 (18/03/2021)
+## Day 53 (18/03/2021) | Read a blog on getting a data science job
+
+
+
+**Thoughts:** Data Science jobs are not so easy to get
 
 ## Day 54 (19/03/2021)
 
