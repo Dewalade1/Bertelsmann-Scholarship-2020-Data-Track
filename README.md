@@ -511,7 +511,12 @@ Had to go to the hospital to see my Dad
 
 ## Day 53 (18/03/2021) | Read a blog on getting a data science job
 
-
+* Skills required include:
+  * Python
+  * SQL
+  * Statistics
+  * Mathematics
+  * Analytics
 
 **Thoughts:** Data Science jobs are not so easy to get
 
