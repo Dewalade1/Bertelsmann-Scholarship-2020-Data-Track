@@ -520,7 +520,9 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Data Science jobs are not so easy to get
 
-## Day 54 (19/03/2021)
+## Day 54 (19/03/2021) | SEO improvement blog
+
+**Thoughts:** To beat your competition in SEO you need to be alert
 
 ## Day 55 (20/03/2021)
 
