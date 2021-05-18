@@ -1,7 +1,7 @@
 # Bertelsmann Scholarship 2020 Data Track Course Learning Progress
 ------------------------------------------------------------
 
-#### Hey there,Thanks for coming. This a record of my learning progress on the Bertelsman scholarship data track course. It also contains my progress on fulfilling the 60 days of udacity challenge. I took the pledge on December 14, 2020 but I could not keep up with it so I decided to start over from the beginning starting on January 26th, 2021. I decided to review the entire course in order to refresh my memory and get a little practice in with alteryx before the main nanodegree starts.
+#### Hey there,Thank you for coming. This repository a record of my learning progress on the Bertelsman scholarship data track course. It also contains my progress on fulfilling the 60 days of udacity challenge. I took the pledge on December 14, 2020 but I could not keep up with it so I decided to start over from the beginning starting on January 26th, 2021. I decided to review the entire course in order to refresh my memory and get a little practice in with alteryx before the main nanodegree starts.
 
 * **Credits:** Unless specified, all images were gotten from Bertelsman scholarship data challenge course: Introduction to Problem Solving with Advanced Analytics Nanodegree Program by Udacity*
 
