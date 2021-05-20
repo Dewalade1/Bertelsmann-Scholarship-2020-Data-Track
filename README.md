@@ -522,6 +522,9 @@ Had to go to the hospital to see my Dad
 
 ## Day 54 (19/03/2021) | SEO improvement blog
 
+* Be awaemre of your direct, imdirect amd semantic competitors.
+* Pick the right keyeords
+
 **Thoughts:** To beat your competition in SEO you need to be alert
 
 ## Day 55 (20/03/2021)
