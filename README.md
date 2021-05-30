@@ -527,7 +527,9 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** To beat your competition in SEO you need to be alert
 
-## Day 55 (20/03/2021)
+## Day 55 (20/03/2021) |Branding Mistakes blogs
+
+**Thoughts:** Most branding mistakes are not easily noticed
 
 ## Day 56 (21/03/2021)
 
