@@ -531,7 +531,9 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Most branding mistakes are not easily noticed
 
-## Day 56 (21/03/2021)
+## Day 56 (21/03/2021) | Joined a tech program
+
+**Thoughts:** Tech initiatives are great paths for personal growth
 
 ## Day 57 (22/03/2021)
 
