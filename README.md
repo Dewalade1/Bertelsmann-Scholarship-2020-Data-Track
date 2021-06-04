@@ -522,7 +522,7 @@ Had to go to the hospital to see my Dad
 
 ## Day 54 (19/03/2021) | SEO improvement blog
 
-* Be awaemre of your direct, imdirect amd semantic competitors.
+* Be aware of your direct, imdirect amd semantic competitors.
 * Pick the right keyeords
 
 **Thoughts:** To beat your competition in SEO you need to be alert
@@ -535,7 +535,10 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Tech initiatives are great paths for personal growth
 
-## Day 57 (22/03/2021)
+## Day 57 (22/03/2021) | Learning backend development as a front end dev
+
+* i read the blog: [The Front-end Developer’s Guide to Back-end Development](https://javascript.plainenglish.io/the-front-end-developers-guide-to-back-end-development-4ffb1cc55449)
+* Learnt that you need to think about APIs for the backend.
 
 ## Day 58 (23/03/2021)
 
