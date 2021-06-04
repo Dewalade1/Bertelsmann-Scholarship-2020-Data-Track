@@ -540,6 +540,8 @@ Had to go to the hospital to see my Dad
 * i read the blog: [The Front-end Developer’s Guide to Back-end Development](https://javascript.plainenglish.io/the-front-end-developers-guide-to-back-end-development-4ffb1cc55449)
 * Learnt that you need to think about APIs for the backend.
 
+**Thoughts:** Backend development is different from front end dev
+
 ## Day 58 (23/03/2021)
 
 ## Day 59 (24/03/2021)
