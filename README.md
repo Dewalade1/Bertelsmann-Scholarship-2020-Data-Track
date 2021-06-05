@@ -542,7 +542,9 @@ Had to go to the hospital to see my Dad
 
 **Thoughts:** Backend development is different from front end dev
 
-## Day 58 (23/03/2021)
+## Day 58 (23/03/2021) | Worked on coverk website
+
+* fixed responsiveness of coverk website
 
 ## Day 59 (24/03/2021)
 
