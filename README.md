@@ -546,6 +546,8 @@ Had to go to the hospital to see my Dad
 
 * fixed responsiveness of coverk website
 
+**Thoughts:** responsiveness work takes time
+
 ## Day 59 (24/03/2021)
 
 ## Day 60 (25/03/2021)
