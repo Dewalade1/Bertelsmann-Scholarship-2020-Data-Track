@@ -547,6 +547,7 @@ Had to go to the hospital to see my Dad
 * fixed mobile responsiveness of coverk website
 * Made nav bar more suitable for mobile phones
 * Add animations to website
+* pushed all my changes to repo
 
 **Thoughts:** responsiveness work takes time
 
