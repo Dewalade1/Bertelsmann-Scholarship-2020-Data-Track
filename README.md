@@ -544,7 +544,9 @@ Had to go to the hospital to see my Dad
 
 ## Day 58 (23/03/2021) | Worked on coverk website
 
-* fixed responsiveness of coverk website
+* fixed mobile responsiveness of coverk website
+* Made nav bar more suitable for mobile phones
+* Add animations to website
 
 **Thoughts:** responsiveness work takes time
 
